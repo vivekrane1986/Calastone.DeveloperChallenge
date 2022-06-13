@@ -5,6 +5,10 @@ VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calastone.DeveloperChallenge", "Calastone.DeveloperChallenge\Calastone.DeveloperChallenge.csproj", "{4D0A6508-2726-4DFE-9B3B-7246C9A9A1CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calastone.ApplicationCore", "Calastone.ApplicationCore\Calastone.ApplicationCore.csproj", "{200FDFEF-3E56-4765-A346-C1155163ED3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calastrone.Infra", "Calastrone.Infra\Calastrone.Infra.csproj", "{A010C024-1DC6-4C97-8501-0917CB217A9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{4D0A6508-2726-4DFE-9B3B-7246C9A9A1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D0A6508-2726-4DFE-9B3B-7246C9A9A1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D0A6508-2726-4DFE-9B3B-7246C9A9A1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200FDFEF-3E56-4765-A346-C1155163ED3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200FDFEF-3E56-4765-A346-C1155163ED3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200FDFEF-3E56-4765-A346-C1155163ED3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200FDFEF-3E56-4765-A346-C1155163ED3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A010C024-1DC6-4C97-8501-0917CB217A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A010C024-1DC6-4C97-8501-0917CB217A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A010C024-1DC6-4C97-8501-0917CB217A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A010C024-1DC6-4C97-8501-0917CB217A9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
